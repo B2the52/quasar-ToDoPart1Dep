@@ -40,7 +40,7 @@
           <q-avatar size="56px" class="q-mb-sm">
             <img src="\images\Avatar.jpg">
           </q-avatar>
-          <div class="text-weight-bold">Sandy Vlasnik</div>
+          <div class="text-weight-bold">Nick Thies</div>
         </div>
       </q-img>
     </q-drawer>
